@@ -26,4 +26,4 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
  
 ## 📁 Dataset
  
-Adult Census Income dataset (adult.csv) — predicts income category based on features like age, education, occupation, work hours, and more.
+Adult Census Income dataset (adult.csv) — predicts income category based on features like age, education, occupation, work hours, and more..
